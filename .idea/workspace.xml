@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5875cbe-029c-4f7f-b913-8580b35c8d6a" name="Changes" comment="Update for day 32 from the course, making a auto email project using smtp lib from python&#10;Exercise complete." />
+    <list default="true" id="e5875cbe-029c-4f7f-b913-8580b35c8d6a" name="Changes" comment="Now, for real, day 32 project, using smtp lib from python to make a &quot;auto happy bday&quot;&#10;:)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,14 +24,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/Learning_Python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Learning_Python&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666646159961</updated>
       <workItem from="1666646161563" duration="1371000" />
+      <workItem from="1666647667028" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="Update for day 32 from the course, making a auto email project using smtp lib from python&#10;Exercise complete.">
       <created>1666647039852</created>
@@ -49,7 +50,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666647039852</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Now, for real, day 32 project, using smtp lib from python to make a &quot;auto happy bday&quot;&#10;:)">
+      <created>1666647817128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666647817128</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update for day 32 from the course, making a auto email project using smtp lib from python&#10;Exercise complete." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update for day 32 from the course, making a auto email project using smtp lib from python&#10;Exercise complete." />
+    <MESSAGE value="Now, for real, day 32 project, using smtp lib from python to make a &quot;auto happy bday&quot;&#10;:)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now, for real, day 32 project, using smtp lib from python to make a &quot;auto happy bday&quot;&#10;:)" />
   </component>
 </project>

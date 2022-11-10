@@ -39,7 +39,7 @@ with open("quotes.txt", "r") as file:
 with smtplib.SMTP("smtp.gmail.com") as connection:
     connection.starttls()
     connection.login(user=my_email, password=password)
-    if day_of_week ==  5:
+    if day_of_week == 5:
         msg = random.choice(list_of_quotes)
         print(msg)
         connection.sendmail(from_addr=my_email,
